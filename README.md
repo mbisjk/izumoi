@@ -325,25 +325,4 @@ gulp
 所有数据整理自网络，且鄙人才疏学浅，一定会有疏忽错误，欢迎指正。
 
 如果你有好的建议或意见，欢迎提 issue 反馈。
-
-## 联系方式
-
-* Email: 851399101@qq.com
-
-## 请喝咖啡
-
-如果我的项目对你有帮助，可以请我喝杯~~咖啡~~白开水。
-
-### 支付宝
-
-<img src="https://raw.githubusercontent.com/myvin/miniprogram/master/9181893579988_.pic_hd.jpg" width="300" /> <img src="https://raw.githubusercontent.com/myvin/miniprogram/master/9191893579989_.pic.jpg" width="300" />
-
-### 微信
-
-<img src="https://raw.githubusercontent.com/myvin/miniprogram/master/9201893579990_.pic_hd.jpg" width="300" />
-
-## License
-
-[MIT](http://opensource.org/licenses/MIT)
-
-Copyright (c) 2018-present, myvin
+ 
